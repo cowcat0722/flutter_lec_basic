@@ -6,6 +6,6 @@ void main() {
   } else if (point >= 80) {
     print("B학점");
   } else {
-    print("C학점");
+    print("C학점")
   }
 }
